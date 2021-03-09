@@ -11,7 +11,7 @@ html, body {
 }
 
 .frontend-side {
-  background-image: url("img/izquierda.jpg");
+  background-image: url("./img/izquierda.jpg");
 }
 
 .uiux-side {
